@@ -49,7 +49,7 @@ public class Morra2{
 		choice=0;
 		roundCnt=0;
 		gameCnt=0;
-		array=new int[3][10][10];
+		array=new int[3][4][10];
 		history="";
 		roundsWon=0;
 		roundsLost=0;
